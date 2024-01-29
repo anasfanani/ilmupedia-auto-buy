@@ -4,6 +4,9 @@
 
 ## Kredensial
 
+Lakukan login ke https://my.telkomsel.com/ dan buka console pada Chrome ( CTRL + SHIFT + I ) atau ( F12 ).
+Paste kode di bawah.
+
 ### Browser PC 
 
 ```
@@ -33,3 +36,10 @@ javascript:document.body.innerHTML = `<textarea style="width: 100%;height:400px;
 ```
 
 Lalu tekan Enter.
+
+
+## Pemasangan kredensial 
+
+Untuk sementara dalam mode pengembangan, kredensial disimpan di tempat yang tidak aman, `./src/config/localStorage.json`.
+
+Pengembangan selanjutnya akan menggunakan environment variable pada workflows.
