@@ -42,4 +42,24 @@ Lalu tekan Enter.
 
 Untuk sementara dalam mode pengembangan, kredensial disimpan di tempat yang tidak aman, `./src/config/localStorage.json`.
 
-Pengembangan selanjutnya akan menggunakan environment variable pada workflows.
+## Menjalankan
+
+```
+git clone https://github.com/anasfanani/ilmupedia-auto-buy
+cd ilmupedia-auto-buy
+npm install
+node src/main.js
+```
+
+## Perhatian
+
+Pengembangan telah menguras beberapa saldo, jika di lakukan pengembangan satu hari penuh maka akan menguras banyak saldo, maka dari itu pengembangan akan di lakukan bertahap jika paket data habis.
+
+Jika anda tidak sabar menunggu versi stabil, sebaiknya anda melakukan sedikit donasi agar memudahkan dan mempercepat proses pengembangan.
+
+## Rencana
+
+- Membuat binary statis yang bisa di jalankan di Termux.
+- Mengaplikasikan workflow github.
+- Mengaplikasikan bersama aplikasi otomatisasi di android seperti Tasker, Automate
+- Otomatis membeli jika terdapat SMS paket data telah habis ( berakhir waktu ataupun kuota habis )
