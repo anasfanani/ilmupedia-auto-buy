@@ -7,7 +7,7 @@ class AutoBuy {
     #bonusData;
     #buyDataResponse;
     #canBuyData = true;
-    #debugMode = true;
+    #debugMode = false;
 
     constructor(localStorageData) {
         this.localStorageData = localStorageData;
@@ -235,10 +235,13 @@ class AutoBuy {
                     return [title, content];
                 });
                 console.log(dialogInfo);
+                await this.page.screenshot({path: 'screenshots/buyData.failed.png'});
             } else if (buyDataResponseExists) {
                 console.log('Pembelian berhasil');
+                await this.page.screenshot({path: 'screenshots/buyData.success.png'});
             } else {
                 console.log('Terjadi kesalahan');
+                await this.page.screenshot({path: 'screenshots/buyData.unknown.png'});
             }
         } catch (error) {
             console.log('Something went wrong')
