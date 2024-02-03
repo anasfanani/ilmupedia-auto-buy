@@ -2,15 +2,15 @@
 
 ## Penjelasan 
 
-Kode di dalam repositori ini gunanya untuk melakukan pembelian paket data dengan node js, dalam proyek ini menggunakan nodeJs dan pupeterr, pupeter adalah headless browser yang bermaksud pupeter dapat menjalankan proses browser seperti pada umumnya namun di jalankan di latar belakang, penggunaan kode di repositori ini menargetkan kepada orang orang yang selalu membeli paket data dengan kuota waktu harian, jika di lakukan terus menerus akan membosankan, maka dengan senang hati saya membuat proyek yang bertujuan memudahkan dalam membeli kuota.
+Kode dalam repositori ini digunakan untuk otomatisasi pembelian paket data menggunakan Node.js. Dalam proyek ini, kita menggunakan Node.js dan Puppeteer. Puppeteer adalah browser headless, yang berarti Puppeteer dapat menjalankan proses browser di latar belakang. Kode ini ditujukan untuk individu yang sering membeli paket data harian. Melakukan pembelian ini secara berkelanjutan bisa menjadi membosankan, oleh karena itu saya dengan senang hati membuat proyek ini untuk memudahkan proses pembelian paket data.
 
 ## Keterbatasan
 
-Tidak dapat membeli kuota dengan gratis, anda tetap memakai pulsa, jika anda fikir dengan kode maka dapat membeli paket data secara gratis, maka anda termasuk orang orang dengan cara berfikir yang salah.
+Perlu diingat bahwa kode ini tidak dapat digunakan untuk membeli kuota secara gratis. Anda masih memerlukan pulsa untuk melakukan pembelian. Jika Anda berpikir bahwa dengan menggunakan kode ini Anda dapat membeli paket data tanpa biaya, maka pemahaman tersebut tidak benar.
 
-## Persiapan
+## Persyaratan
 
-Persiapan sebelum menggunakan script ini adalah menginstall beberapa paket yang diperlukan 
+Sebelum menggunakan skrip ini, Anda perlu menginstal beberapa paket yang diperlukan.
 
 ### Linux 
 ```
