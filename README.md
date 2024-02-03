@@ -84,9 +84,17 @@ Pengembangan telah menguras beberapa saldo, jika di lakukan pengembangan satu ha
 
 Jika anda tidak sabar menunggu versi stabil, sebaiknya anda melakukan sedikit donasi agar memudahkan dan mempercepat proses pengembangan.
 
+## Diskusi & Bantuan
+
+Silahkan chat ke telegram secara langsung jika menemukan error ataupun sekedar memberikan feedback.
+
+https://t.me/anasfanani
+
+
 ## Rencana
 
-- Membuat binary statis yang bisa di jalankan di Termux.
-- Mengaplikasikan workflow github.
-- Mengaplikasikan bersama aplikasi otomatisasi di android seperti Tasker, Automate
-- Otomatis membeli jika terdapat SMS paket data telah habis ( berakhir waktu ataupun kuota habis )
+- [ ] Dijalankan di openwrt
+- [ ] Membuat binary statis yang bisa di jalankan di Termux.
+- [ ] Mengaplikasikan workflow github.
+- [ ] Mengaplikasikan bersama aplikasi otomatisasi di android seperti Tasker, Automate
+- [ ] Otomatis membeli jika terdapat SMS paket data telah habis ( berakhir waktu ataupun kuota habis )
