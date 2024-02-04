@@ -78,6 +78,10 @@ Untuk sementara dalam mode pengembangan, kredensial disimpan di `./src/config/lo
 node src/main.js
 ```
 
+## Video Tutorial 
+
+Android : [![Tonton Video](https://img.youtube.com/vi/tmbPHjlEz50/default.jpg)](https://youtu.be/tmbPHjlEz50)
+
 ## Perhatian
 
 Pengembangan telah menguras beberapa saldo, jika di lakukan pengembangan satu hari penuh maka akan menguras banyak saldo, maka dari itu pengembangan akan di lakukan bertahap jika paket data habis.
@@ -99,3 +103,14 @@ https://t.me/anasfanani
 - [ ] Mengaplikasikan workflow github.
 - [ ] Mengaplikasikan bersama aplikasi otomatisasi di android seperti Tasker, Automate
 - [ ] Otomatis membeli jika terdapat SMS paket data telah habis ( berakhir waktu ataupun kuota habis )
+
+
+## Penyangkalan 
+
+Skrip ini dimaksudkan untuk tujuan edukasi dan sebagai bukti konsep penggunaan Puppeteer dalam mode headless untuk otomatisasi browser. Skrip ini tidak dimaksudkan untuk disalahgunakan atau digunakan dalam aktivitas yang tidak etis.
+
+Jika Anda tertarik dengan otomatisasi dan ingin berkolaborasi, saya sangat senang untuk mendiskusikannya lebih lanjut.
+
+## Lisensi 
+
+Proyek ini dilisensikan di bawah ketentuan [Lisensi MIT](LICENSE).
