@@ -23,7 +23,7 @@ npm install
 
 ### Termux
 ```
-pkg install tur-repo
+pkg install tur-repo x11-repo
 pkg update
 pkg install git nodejs-lts chromium
 git clone https://github.com/anasfanani/ilmupedia-auto-buy
@@ -93,6 +93,7 @@ https://t.me/anasfanani
 
 ## Rencana
 
+- [X] Dijalankan di Termux
 - [ ] Dijalankan di openwrt
 - [ ] Membuat binary statis yang bisa di jalankan di Termux.
 - [ ] Mengaplikasikan workflow github.
