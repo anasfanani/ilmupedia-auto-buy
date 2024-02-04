@@ -80,7 +80,11 @@ node src/main.js
 
 ## Video Tutorial 
 
-Android : [![Tonton Video](https://img.youtube.com/vi/tmbPHjlEz50/default.jpg)](https://youtu.be/tmbPHjlEz50)
+### Android
+Menggunakan Termux.
+
+[![Tonton Video](https://img.youtube.com/vi/tmbPHjlEz50/default.jpg)](https://youtu.be/tmbPHjlEz50)
+
 
 ## Perhatian
 
